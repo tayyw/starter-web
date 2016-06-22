@@ -8,4 +8,6 @@ As stated in title.
 ##A new section
 This is a simple web application
 ##How To Contribute
+###Copyright
+xxx
 
