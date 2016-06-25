@@ -1,6 +1,8 @@
 # Starter Web Project
 
 This is a simple web project
+
+Adding a line for rebasing example
 ##Introduction
 Adding introduction
 ##Purpose
