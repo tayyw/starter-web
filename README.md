@@ -9,6 +9,7 @@ As stated in title.
 This is a simple web application
 ##How To Contribute
 ###Copyright
+Updated
 xxx
 ABC
 this is a copyright
