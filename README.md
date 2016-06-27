@@ -14,4 +14,4 @@ This is a simple web application
 Updated
 xxx
 ABC
-this is a copyright
+this is a copyright. All rights reserved.
